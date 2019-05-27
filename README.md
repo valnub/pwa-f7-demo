@@ -2,8 +2,9 @@
 
 This is the source code for my PWA video on YouTube in which I will explain how to make a PWA installable and benefit from its offline caching capabilities.
 
-## NPM Scripts
+## How to use
 
+* `npm install` - Install deps
 * `npm start` - run development server
 * `npm run build-prod` - build web app for production
 * `npm run build-dev` - build web app using development mode (faster build without minification and optimization)
