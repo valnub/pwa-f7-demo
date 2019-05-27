@@ -1,6 +1,6 @@
 # pwa-f7-demo
 
-This is the source code for my PWA video on YouTube in which I will explain how to make a PWA installable and benefit from its offline caching capabilities.
+This is the source code for my [PWA video on YouTube](https://youtu.be/8InXvCzt4-M) in which I will explain how to make a PWA installable and benefit from its offline caching capabilities.
 
 ## How to use
 
